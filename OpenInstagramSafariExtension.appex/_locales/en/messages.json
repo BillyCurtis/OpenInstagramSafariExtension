@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Open in Instagram",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Displays an Open in Instagram alert for sideloaded Instagram",
+        "description": "Description of what the extension does."
+    }
+}
